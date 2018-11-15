@@ -1,5 +1,5 @@
 import React from 'react'
-import {Switch, Route,Redirect} from 'react-router-dom'
+import {Switch, Route} from 'react-router-dom'
 import Searcher from './components/Searcher';
 
 const Routes = ()=>{

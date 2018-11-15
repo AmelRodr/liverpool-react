@@ -24,6 +24,7 @@ const SearcherDisplay = ({ product = {}, classes }) => {
                     className={classes.media}
                     image={product.largeImage}
                     title="imagen"
+                    alt = 'imagen'
                 />
                 <CardContent style={{ height: 160 }}>
                     <Typography gutterBottom variant="h5" >
